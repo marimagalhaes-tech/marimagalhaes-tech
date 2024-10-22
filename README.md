@@ -7,10 +7,13 @@ A software designer with a strong background in user interface design and digita
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch" />
 </div>
+
+</div
+      ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
+      ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=black)
+</div>
+
 
 # 💫 About Me:
 👩‍💻 Software Designer transitioning into Software Engineering<br>🌍 Lived in Brazil, USA, Portugal, and now Austria<br>🎓 Studying computer science to broaden my tech skills<br>💻 Experienced with mobile apps, UI design, and design systems<br>🍴 Fun fact: I enjoy cooking and experimenting with new recipes!
