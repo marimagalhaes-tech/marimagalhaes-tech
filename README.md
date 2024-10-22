@@ -13,7 +13,7 @@ A software designer with a strong background in user interface design and digita
     </div>
 </div>
 
-# Find me at:
+## 📫 Let's Connect!
 
 <div style="display: flex; gap: 15px; margin-top: 20px;">
   <a href="mailto:1mariana.magalhaes1@gmail.com" target="_blank" style="text-decoration: none;">
