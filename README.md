@@ -24,6 +24,6 @@ A software designer with a strong background in user interface design and digita
   </a>
 </div>
 
-<div
-![Animated Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FrMjE1bTJ1YTYzc2J2NmowMzZvcDJrejFoMTYwN2J5eHU4N3VucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
+<div 
+    ![Animated Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FrMjE1bTJ1YTYzc2J2NmowMzZvcDJrejFoMTYwN2J5eHU4N3VucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
 </div>
