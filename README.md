@@ -24,7 +24,7 @@ A software designer with a strong background in user interface design and digita
     <img src="https://img.shields.io/badge/Gmail-D14A4A?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=20" alt="Gmail" style="border-radius: 10px;" />
   </a>
   <a href="https://www.linkedin.com/in/mariana-magalhaess/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-4A99C7?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=20" alt="LinkedIn" style="border-radius: 10px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-5B83B2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=20" alt="LinkedIn" style="border-radius: 10px;" />
   </a>
 </div>
 
