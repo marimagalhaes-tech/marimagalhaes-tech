@@ -1,7 +1,7 @@
 # 👩‍💻 Hi, I'm Mariana!
 A software designer with a strong background in user interface design and digital product development. I have experience creating user-centered digital products and am currently expanding my skills in computer science and software engineering. Originally from Rio de Janeiro, I'm half Brazilian and half Portuguese. My experiences living in the U.S., Portugal, and Austria have enriched my perspective on everything, allowing me to approach challenges with a unique cultural background. Always eager to learn and collaborate, I’m excited to contribute to meaningful projects! 
 
-![Animated Banner](https://media.giphy.com/media/l0HlyhZcR8Vnb8L4s/giphy.gif)
+![Animated Banner](<iframe src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p>)
 
 ## 💻 Languages & Tools I Love
 
