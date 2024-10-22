@@ -1,7 +1,7 @@
 # 👩‍💻 Hi, I'm Mariana!
 A software designer with a strong background in user interface design and digital product development. I have experience creating user-centered digital products and am currently expanding my skills in computer science and software engineering. Originally from Rio de Janeiro, I'm half Brazilian and half Portuguese. My experiences living in the U.S., Portugal, and Austria have enriched my perspective on everything, allowing me to approach challenges with a unique cultural background. Always eager to learn and collaborate, I’m excited to contribute to meaningful projects! 
 
-## 💻 Languages & Tools I Love
+## 💻 Languages & tools I love
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
     <img src="https://img.shields.io/badge/JavaScript-FFB347?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -13,7 +13,7 @@ A software designer with a strong background in user interface design and digita
     </div>
 </div>
 
-## 📫 Let's Connect!
+## 📫 Let's connect!
 
 <div style="display: flex; gap: 15px; margin-top: 20px;">
   <a href="mailto:1mariana.magalhaes1@gmail.com" target="_blank" style="text-decoration: none;">
@@ -24,5 +24,6 @@ A software designer with a strong background in user interface design and digita
   </a>
 </div>
 
+<div
 ![Animated Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FrMjE1bTJ1YTYzc2J2NmowMzZvcDJrejFoMTYwN2J5eHU4N3VucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
-
+</div>
