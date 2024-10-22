@@ -4,21 +4,20 @@ A software designer with a strong background in user interface design and digita
 ## 💻 Technologies & Tools I Love
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="JavaScript" style="border-radius: 10px;" />
-    <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML" style="border-radius: 10px;" />
-    <img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" style="border-radius: 10px;" />
+    <img src="https://img.shields.io/badge/JavaScript-FFB347?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML-F7B7A3?style=for-the-badge&logo=html5&logoColor=black" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-9B88D9?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
     <div style="display: flex; gap: 15px;">
-        <img src="https://img.icons8.com/color/50/000000/figma.png" alt="Figma" style="border-radius: 10px;" />
-        <img src="https://img.icons8.com/color/50/000000/sketch.png" alt="Sketch" style="border-radius: 10px;" />
+        <img src="https://img.shields.io/badge/Figma-F4A300?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+        <img src="https://img.shields.io/badge/Sketch-F7D1A0?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch" />
     </div>
 </div>
 
-
-
-# 💫 About Me:
-👩‍💻 Software Designer transitioning into Software Engineering<br>🌍 Lived in Brazil, USA, Portugal, and now Austria<br>🎓 Studying computer science to broaden my tech skills<br>💻 Experienced with mobile apps, UI design, and design systems<br>🍴 Fun fact: I enjoy cooking and experimenting with new recipes!
-
-<div> 
-  <a href = "mailto: 1mariana.magalhaes1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mariana-magalhaess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div style="display: flex; gap: 15px; margin-top: 20px;">
+  <a href="mailto:1mariana.magalhaes1@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836&borderRadius=20" alt="Gmail" style="border-radius: 10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/mariana-magalhaess/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&borderRadius=20" alt="LinkedIn" style="border-radius: 10px;" />
+  </a>
 </div>
