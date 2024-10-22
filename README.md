@@ -1,7 +1,7 @@
 # 👩‍💻 Hi, I'm Mariana!
 A software designer with a strong background in user interface design and digital product development. I have experience creating user-centered digital products and am currently expanding my skills in computer science and software engineering. Originally from Rio de Janeiro, I'm half Brazilian and half Portuguese. My experiences living in the U.S., Portugal, and Austria have enriched my perspective on everything, allowing me to approach challenges with a unique cultural background. Always eager to learn and collaborate, I’m excited to contribute to meaningful projects! 
 
-![Animated Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FrMjE1bTJ1YTYzc2J2NmowMzZvcDJrejFoMTYwN2J5eHU4N3VucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
+![Animated Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FrMjE1bTJ1YTYzc2J2NmowMzZvcDJrejFoMTYwN2J5eHU4N3VucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif =100x100)
 
 ## 💻 Languages & Tools I Love
 
