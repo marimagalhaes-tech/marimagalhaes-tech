@@ -4,14 +4,15 @@ A software designer with a strong background in user interface design and digita
 ## 💻 Technologies & Tools I Love
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="https://img.shields.io/badge/JavaScript-FFB347?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML-F7B7A3?style=for-the-badge&logo=html5&logoColor=black" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS-9B88D9?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-FFB347?style=for-the-badge&logo=javascript&logoColor=black&color=FFB347&borderRadius=20" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML-F7B7A3?style=for-the-badge&logo=html5&logoColor=black&color=F7B7A3&borderRadius=20" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-9B88D9?style=for-the-badge&logo=css3&logoColor=white&color=9B88D9&borderRadius=20" alt="CSS" />
     <div style="display: flex; gap: 15px;">
-        <img src="https://img.shields.io/badge/Figma-F4A300?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-        <img src="https://img.shields.io/badge/Sketch-F7D1A0?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch" />
+        <img src="https://img.shields.io/badge/Figma-F4A300?style=for-the-badge&logo=figma&logoColor=white&color=F4A300&borderRadius=20" alt="Figma" />
+        <img src="https://img.shields.io/badge/Sketch-F7D1A0?style=for-the-badge&logo=sketch&logoColor=black&color=F7D1A0&borderRadius=20" alt="Sketch" />
     </div>
 </div>
+
 
 
 # 💫 About Me:
