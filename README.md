@@ -1,6 +1,12 @@
 # 👩‍💻 Hi, I'm Mariana!
 A software designer with a strong background in user interface design and digital product development. I have experience creating user-centered digital products and am currently expanding my skills in computer science and software engineering. Originally from Rio de Janeiro, I'm half Brazilian and half Portuguese. My experiences living in the U.S., Portugal, and Austria have enriched my perspective on everything, allowing me to approach challenges with a unique cultural background. Always eager to learn and collaborate, I’m excited to contribute to meaningful projects! 
 
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" fill="lightblue">
+    <animate attributeName="r" from="40" to="20" dur="0.5s" begin="0s" repeatCount="indefinite" />
+  </circle>
+</svg>
+
 ## 💻 Languages & tools I love
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
