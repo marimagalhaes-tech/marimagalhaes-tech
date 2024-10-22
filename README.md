@@ -4,9 +4,9 @@ A software designer with a strong background in user interface design and digita
 ## 💻 Languages & tools I love
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="https://img.shields.io/badge/JavaScript-FFB347?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/JavaScript-FFEB8E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/HTML-F7B7A3?style=for-the-badge&logo=html5&logoColor=black" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS-9B88D9?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/CSS-B7A2E2?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
     <div style="display: flex; gap: 15px;">
         <img src="https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
         <img src="https://img.shields.io/badge/Sketch-F7D1A0?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch" />
